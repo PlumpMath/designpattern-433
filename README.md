@@ -19,7 +19,7 @@ Behavioral|The way in which classes or objects interact and distribute responsib
 - SOLID原则
 
 名称|含义
---|--  
+---|----    
 单一职责原则|仅仅有一个原因去修改一个类
 开放封闭原则|对扩展开放，对修改封闭。换句话说，扩展一个类的行为，而不是修改它
 里氏代换原则|程序中的对象应该是可以在不改变程序正确性的前提下被它的子类所替换的
