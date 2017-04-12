@@ -1,0 +1,9 @@
+@startuml
+
+interface Subject
+interface InvocationHandler
+class Proxy
+
+Subject <|.. RealSubject
+
+@enduml
